@@ -2,6 +2,9 @@ module github.com/my-fork/semantic-router
 
 go 1.22
 
+// Personal fork of vllm-project/semantic-router for learning purposes.
+// Upstream: https://github.com/vllm-project/semantic-router
+
 require (
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/prometheus/client_golang v1.19.1
